@@ -96,5 +96,6 @@ ollama-document-summarizer/
 
 ## 👨‍💻 Author
 
-Pratik Pawar
+Pratik Pawar  
+Data Analyst | Flask & AI Projects |
 
