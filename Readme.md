@@ -76,7 +76,7 @@ python app.py
 ## 🗂 File Structure
 
 ```
-document-summarizer/
+ollama-document-summarizer/
 │
 ├── app.py                 # Main Flask app
 ├── templates/
