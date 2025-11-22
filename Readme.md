@@ -97,4 +97,4 @@ document-summarizer/
 ## 👨‍💻 Author
 
 Pratik Pawar
-Personal Document Summarizer with Ollama LLaMA integration
+
