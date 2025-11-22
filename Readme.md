@@ -83,7 +83,8 @@ document-summarizer/
 │   └── index.html         # HTML template
 ├── static/
 │   └── (optional CSS/JS)  # For future enhancements
-└──requirements.txt        # Python dependencies
+├──requirements.txt # Python dependencies
+└── test.txt  # Sample text file  
 
 ```
 ## ⚠️ Notes
