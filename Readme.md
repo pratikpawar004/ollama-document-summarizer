@@ -31,7 +31,7 @@ A modern, professional web application to **summarize documents** using **local 
 1. **Clone the repository**
 
 ```bash
-git clone [https://github.com/yourusername/document-summarizer.git](https://github.com/pratikpawar004/ollama-document-summarizer.git)
+git clone https://github.com/pratikpawar004/ollama-document-summarizer.git
 cd document-summarizer
 ```
 2. **Create a virtual environment (recommended)**
