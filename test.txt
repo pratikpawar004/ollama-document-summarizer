@@ -1,0 +1,6 @@
+Artificial Intelligence (AI) refers to the simulation of human intelligence in machines 
+that are programmed to think and learn like humans. AI has applications in various domains 
+such as healthcare, finance, education, and transportation. It can help doctors diagnose 
+diseases, predict stock market trends, personalize learning for students, and even enable 
+self-driving cars. However, AI also raises concerns about privacy, bias, and job displacement.
+ Therefore, it is important to balance innovation with ethical considerations.
